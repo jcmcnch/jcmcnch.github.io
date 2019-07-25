@@ -7,17 +7,17 @@
   </url>
   
   <url>
-    <loc>https://jcmcnch.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jcmcnch.github.io/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jcmcnch.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcmcnch.github.io/</loc>
     <priority>0</priority>
   </url>
   
