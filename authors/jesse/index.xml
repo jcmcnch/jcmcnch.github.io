@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
-    <link>https://jcmcnch.github.io/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <title>jesse on Academic</title>
+    <link>https://jcmcnch.github.io/authors/jesse/</link>
+    <description>Recent content in jesse on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://jcmcnch.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jcmcnch.github.io/authors/jesse/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <guid>https://jcmcnch.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a recent graduate of the MIT-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography. During my PhD, I studied the biogeochemistry/ecophysiology of chemoautotrophic Campylobacteria (prev. Epsilonproteobacteria) under the guidance of Dr. Stefan Sievert. Currently, I am working as a Postdoc at the University of Southern California with Dr. Jed Fuhrman. This position is part of a larger project funded by the Simons Foundation to model the biogeochemistry of oceans on basin scales. From Nov 2016-Nov 2017, I worked at the Chinese University of Hong Kong with Dr. Haiwei Luo where I focused mainly on microbial isolation and single-cell genomic analyses. Before my PhD, I worked with the National Research Council of Canada on algal biofuels research in Halifax, NS, Canada. I completed my undergraduate degree in Biology on Canada&amp;rsquo;s east coast at Mount Allison University in Sackville, NB and am originally from Kingston, Ontario, Canada.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>jesse</title>
-      <link>https://jcmcnch.github.io/authors/jesse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jcmcnch.github.io/authors/jesse/</guid>
-      <description></description>
     </item>
     
   </channel>
