@@ -2,40 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://jcmcnch.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jcmcnch.github.io/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jcmcnch.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jcmcnch.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jcmcnch.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jcmcnch.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jcmcnch.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jcmcnch.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jcmcnch.github.io/tags/</loc>
-  </url>
-  
 </urlset>
